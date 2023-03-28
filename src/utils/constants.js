@@ -14,7 +14,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 export const logo = '~/src/utils/Blue and White Modern Media Logo.png';
 
 export const categories = [
-  { name: 'New', icon: <HomeIcon />, },
+  { name: 'Latest', icon: <HomeIcon />, },
   { name: 'Botuns Tutorials', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
